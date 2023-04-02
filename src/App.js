@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Los Angeles" />
 
         <footer>
-          This project was coded by Sonya B.
+          This project was coded by Sonya B.:
           <a href="https://github.com/BerryPasse/final-shecodes">
             Github open code hosted by Netlify
           </a>

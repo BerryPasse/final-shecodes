@@ -6,10 +6,13 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Baltimore" />
+        <Weather defaultCity="Los Angeles" />
 
         <footer>
-          <a href="https://github.com/BerryPasse/">Sonya B's Open Code</a>
+          This project was coded by Sonya B.
+          <a href="https://github.com/BerryPasse/final-shecodes">
+            Github open code hosted by Netlify
+          </a>
         </footer>
       </div>
     </div>
